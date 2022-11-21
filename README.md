@@ -35,5 +35,10 @@ Para indicar los campos que queremos recuperar utilizamos la herramienta de desa
 
 ![image](https://user-images.githubusercontent.com/70807950/203076002-ca4faf7d-3243-499e-b983-800ddb919313.png)<br/>
 
- 
+##Reporte:
+Actualmente solo se admite reporte en csv pero se podría implementar para otros escenarios.<br/>
+Es posible que tengas que limpiar el output, esto dependerá de la página web contra la que lo realices.<br/>
+
+![image](https://user-images.githubusercontent.com/70807950/203078812-c8e8cf80-6ff2-4921-8806-86239f1ce8a7.png)
+
 
